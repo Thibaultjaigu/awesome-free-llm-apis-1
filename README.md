@@ -294,11 +294,11 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
 
   ### [Requesty](https://app.requesty.ai/api-keys) 🇬🇧
 
-  > LLM gateway with a permanent free plan: one key for the free models in the catalog, 200 requests per day, no credit card and no trial expiry.
+  > LLM gateway with a permanent free plan: one key for the free models in the catalog, 200 requests per day, no credit card and no trial expiry. This entry was live tested in September 2026.
 
   | Detail | Info |
   |---|---|
-  | **Free Models** | Nemotron 3 Ultra 550B, Nemotron 3 Super 120B, Gemma 4 31B, Leanstral 1.5, Nemotron 3.5 Lightning + 2 more (models priced at 0 in the [model list](https://www.requesty.ai/free-models)) |
+  | **Free Models** | Nemotron 3 Ultra 550B, Nemotron 3 Super 120B, Gemma 4 31B, Leanstral 1.5, Nemotron 3.5 Lightning + 7 more (12 chat models priced at 0 in the [model list](https://www.requesty.ai/free-models)) |
   | **Rate Limits** | 200 RPD shared across free models ([source](https://www.requesty.ai/free-models)) |
   | **OpenAI Compat** | ✅ Yes, `https://router.requesty.ai/v1` |
   | **SDKs** | Python (via `openai`), JS/TS (via `openai`), REST |
@@ -320,7 +320,7 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
 
   ## Quick Comparison — Free LLM APIs at a Glance
 
-  All 15 **free LLM API providers** side by side. Sorted by category (provider-first, then inference). Use this to pick the right free AI API for your use case before diving into the full entry above.
+  All 16 **free LLM API providers** side by side. Sorted by category (provider-first, then inference). Use this to pick the right free AI API for your use case before diving into the full entry above.
 
   | Provider | Best Free Model | RPM | RPD | OpenAI Compat | Speed |
   |---|---|---|---|---|---|
