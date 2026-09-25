@@ -304,6 +304,8 @@ Most "free LLM API" lists give you a name and a link. This one gives you everyth
   | **SDKs** | Python (via `openai`), JS/TS (via `openai`), REST |
   | **Speed Tier** | 🟡 Medium |
 
+  > ⚠️ Requesty's model list marks the free NVIDIA and Poolside hosted models (Nemotron, Muse Glimmer, Laguna) as retaining inputs for 30 days and using them for training, under the NVIDIA API Trial and Poolside terms. Gemma 4 31B and Leanstral 1.5 are not used for training. Avoid sending personal or confidential prompts to the flagged models. [Check each model's data terms →](https://www.requesty.ai/free-models)
+
   ---
 
   ## Speed Tier Legend
